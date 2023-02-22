@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LeKoller
-- 👀 I’m interested in Front-end, with Vue.js, Angular and React, mostly.
-- 🌱 I’m currently learning Java, Angular and Node.js.
-- 💞️ I’m looking to collaborate on any job possible :)
+- 👋 Hi, I’m Leandro Koller
+- 👀 I’m interested in Golang.
+- 🌱 I’m currently learning Kafka, Data Science and improving my Go habilities.
+- 💞️ I’m looking to collaborate with Go community  :)
 - 📫 How to reach me: lekoller@yahoo.com
 
 <!---
